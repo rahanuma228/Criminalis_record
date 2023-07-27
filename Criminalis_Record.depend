@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1636277942 source:e:\fh lab\criminalis_record\main.cpp
+	<bits/stdc++.h>
+	<Case.h>
+	<Admin.h>
+	<timer.h>
+
+1636274094 source:e:\fh lab\criminalis_record\src\person.cpp
+	"Person.h"
+
+1636271423 e:\fh lab\criminalis_record\include\person.h
+	<timer.h>
+	<bits/stdc++.h>
+
+1636276036 source:e:\fh lab\criminalis_record\src\police.cpp
+	"Police.h"
+	<Case.h>
+
+1636272342 e:\fh lab\criminalis_record\include\police.h
+	<timer.h>
+	<Person.h>
+	<bits/stdc++.h>
+
+1636274308 source:e:\fh lab\criminalis_record\src\criminal.cpp
+	"Criminal.h"
+	<graphics.h>
+
+1636274308 e:\fh lab\criminalis_record\include\criminal.h
+	<Person.h>
+	<bits/stdc++.h>
+
+1636276325 source:e:\fh lab\criminalis_record\src\case.cpp
+	"Case.h"
+	<Police.h>
+
+1636274443 e:\fh lab\criminalis_record\include\case.h
+	<bits/stdc++.h>
+	<Police.h>
+	<Criminal.h>
+	<Victim.h>
+
+1635973268 e:\fh lab\criminalis_record\include\timer.h
+
+1635973410 source:e:\fh lab\criminalis_record\src\timer.cpp
+	"timer.h"
+	<bits/stdc++.h>
+
+1636275945 e:\fh lab\criminalis_record\include\admin.h
+	<Police.h>
+	<timer.h>
+	<bits/stdc++.h>
+
+1636277457 source:e:\fh lab\criminalis_record\src\admin.cpp
+	"Admin.h"
+
+1636273836 source:e:\fh lab\criminalis_record\src\time_function.cpp
+	"time_function.h"
+
+1636273839 e:\fh lab\criminalis_record\include\time_function.h
+	<bits/stdc++.h>
+
+1636274303 e:\fh lab\criminalis_record\include\victim.h
+	<Person.h>
+
+1636274308 source:e:\fh lab\criminalis_record\src\victim.cpp
+	"Victim.h"
+
+1636310228 source:e:\fh lab\criminalis_record_project\main.cpp
+	<bits/stdc++.h>
+	<Case.h>
+	<Admin.h>
+	<timer.h>
+
+1636274443 e:\fh lab\criminalis_record_project\include\case.h
+	<bits/stdc++.h>
+	<Police.h>
+	<Criminal.h>
+	<Victim.h>
+
+1636308466 e:\fh lab\criminalis_record_project\include\police.h
+	<timer.h>
+	<Person.h>
+	<bits/stdc++.h>
+
+1635973268 e:\fh lab\criminalis_record_project\include\timer.h
+
+1636309395 e:\fh lab\criminalis_record_project\include\person.h
+	<timer.h>
+	<bits/stdc++.h>
+
+1636307587 e:\fh lab\criminalis_record_project\include\criminal.h
+	<Person.h>
+	<bits/stdc++.h>
+
+1636274303 e:\fh lab\criminalis_record_project\include\victim.h
+	<Person.h>
+
+1636308007 e:\fh lab\criminalis_record_project\include\admin.h
+	<Police.h>
+	<timer.h>
+	<bits/stdc++.h>
+
+1636309822 source:e:\fh lab\criminalis_record_project\src\case.cpp
+	"Case.h"
+	<Police.h>
+
+1636274094 source:e:\fh lab\criminalis_record_project\src\person.cpp
+	"Person.h"
+
+1636273836 source:e:\fh lab\criminalis_record_project\src\time_function.cpp
+	"time_function.h"
+
+1636273839 e:\fh lab\criminalis_record_project\include\time_function.h
+	<bits/stdc++.h>
+
+1636274308 source:e:\fh lab\criminalis_record_project\src\victim.cpp
+	"Victim.h"
+
+1636308255 source:e:\fh lab\criminalis_record_project\src\admin.cpp
+	"Admin.h"
+
+1636309342 source:e:\fh lab\criminalis_record_project\src\police.cpp
+	"Police.h"
+	<Case.h>
+
+1636309658 source:e:\fh lab\criminalis_record_project\src\criminal.cpp
+	"Criminal.h"
+	<graphics.h>
+
+1636260114 source:d:\oop_final\main.cpp
+	<bits/stdc++.h>
+	<Case.h>
+	<Admin.h>
+	<timer.h>
+
+1636260116 d:\oop_final\include\case.h
+	<bits/stdc++.h>
+	<Police.h>
+	<Criminal.h>
+	<Victim.h>
+
+1636260116 d:\oop_final\include\police.h
+	<timer.h>
+	<Person.h>
+	<bits/stdc++.h>
+
+1636260116 d:\oop_final\include\timer.h
+
+1636260116 d:\oop_final\include\person.h
+	<timer.h>
+	<bits/stdc++.h>
+
+1636260116 d:\oop_final\include\criminal.h
+	<Person.h>
+	<bits/stdc++.h>
+
+1636260116 d:\oop_final\include\victim.h
+	<Person.h>
+
+1636260116 d:\oop_final\include\admin.h
+	<Police.h>
+	<timer.h>
+	<bits/stdc++.h>
+
+1636260114 source:d:\oop_final\src\admin.cpp
+	"Admin.h"
+
+1636260114 source:d:\oop_final\src\case.cpp
+	"Case.h"
+	<Police.h>
+
+1636260114 source:d:\oop_final\src\criminal.cpp
+	"Criminal.h"
+	<graphics.h>
+
+1636260114 source:d:\oop_final\src\person.cpp
+	"Person.h"
+
+1636260114 source:d:\oop_final\src\police.cpp
+	"Police.h"
+	<Case.h>
+
+1636260114 source:d:\oop_final\src\time_function.cpp
+	"time_function.h"
+
+1636260116 d:\oop_final\include\time_function.h
+	<bits/stdc++.h>
+
+1636260114 source:d:\oop_final\src\victim.cpp
+	"Victim.h"
+
